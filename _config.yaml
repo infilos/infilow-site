@@ -22,7 +22,7 @@ theme: ../node_modules/hexo-theme-doc
 
 theme_config:
   favicon: /images/favicon.ico
-  # google_analytics: UA-110411486-1
+  google_analytics: UA-123062585-1
   support:
     link_text: Raise an Issue on Github
     link_url: https://github.com/infilos/infilow-site/issues/new
